@@ -36,7 +36,7 @@ export default async (req, res) => {
       const message = `<div>Click on the link below to reset your password, if the link is not working then please paste into the browser.</div></br>
     <div>link:${link}</div>`
 
-      // console.log("message", message)
+      // console.log("message", message) 
 
       // console.log("here")
 
